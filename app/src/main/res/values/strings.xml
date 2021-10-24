@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">itinerApp</string>
+    <string name="depart_city">From:</string>
+    <string name="to_city">To:</string>
+    <string name="btn_text">Send</string>
+    <string name="date">Date:</string>
+    <string name="back">Back</string>
+    <string name="train">TGV</string>
+</resources>
